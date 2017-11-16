@@ -1,3 +1,7 @@
+################################################
+##### PROGRAMADO POR: LEANDRO L. MONTANARI #####
+################################################
+
 from math import pi
 
 print('Quantos centímetros tem a pizza que você quer calcular a diferença de área entre QUADRADA e REDONDA?', end='\n')
